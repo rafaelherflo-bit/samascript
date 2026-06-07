@@ -72,7 +72,3 @@ El script espera una estructura similar a esta:
 ---
 **Advertencia:** Este script realiza operaciones destructivas (limpieza de usuarios y grupos no declarados). Se recomienda su uso en servidores dedicados a desarrollo.
 ```
-
-<!--
-[PROMPT_SUGGESTION]¿Puedes crear un ejemplo completo del archivo config.json que requiere este script?[/PROMPT_SUGGESTION]
-[PROMPT_SUGGESTION]Explícame detalladamente cómo funciona la sección de purga de usuarios y grupos.[/PROMPT_SUGGESTION]
