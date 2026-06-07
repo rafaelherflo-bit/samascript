@@ -1,0 +1,49 @@
+{
+  "mysql_root_password": "RootStrongPassword123!",
+  "pma_db_pass": "PMA_Secret_Access_456",
+  "admin_db_pass": "Internal_AdminDB_789",
+  "adminsamas": [
+    {
+      "usuario": "admin_operaciones",
+      "password": "AdminPasswordAlpha!"
+    },
+    {
+      "usuario": "gerente_it",
+      "password": "ManagerSecurePass88"
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "ecommerce_v3",
+      "puerto": 8081,
+      "desarrolladores": [
+        {
+          "usuario": "dev_carlos",
+          "password": "CarlosDevPass2024"
+        },
+        {
+          "usuario": "dev_elena",
+          "password": "ElenaSecureDev77"
+        }
+      ]
+    },
+    {
+      "nombre": "api_rest_pago",
+      "puerto": 8082,
+      "desarrolladores": [
+        {
+          "usuario": "dev_elena",
+          "password": "ElenaSecureDev77"
+        },
+        {
+          "usuario": "dev_marcos",
+          "password": "MarcosSecretPass1"
+        }
+      ]
+    }
+  ],
+  "mantener_usuarios": [
+    "soporte_externo",
+    "monitor_user"
+  ]
+}
